@@ -1,0 +1,5 @@
+*.keras filter=lfs diff=lfs merge=lfs -text
+streamlit
+tensorflow
+numpy
+Pillow

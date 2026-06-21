@@ -1,0 +1,5 @@
+archive/
+archive.zip
+__pycache__/
+*.pyc
+test.jpg
